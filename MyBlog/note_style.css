@@ -1,0 +1,26 @@
+body {
+  background-color: #f0f0f5;
+  margin-top: 70px
+}
+
+.header {
+  background-image: url("https://www.ox.ac.uk/sites/files/oxford/styles/ow_large_feature/public/field/field_image_main/GAF%20DPhil%20Computer%20Science%20SUPP.jpg?itok=qSnasb1J, https://www.google.com/search?safe=strict&client=firefox-b-ab&biw=1280&bih=644&tbm=isch&sa=1&q=+computer+science&oq=+computer+science&gs_l=img.3...83801.83801.0.84143.0.0.0.0.0.0.0.0..0.0....0...1c..64.img..0.0.0.wWPkclIotzc");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-color: transparent;
+  text-align: center;
+  font-family: sans-serif;
+  margin: auto;
+  padding: 1px
+}
+
+h2 {
+  font-family: sans-serif;
+  color: #354C63
+}
+
+p {
+  font-family: Helvetica;
+  font-size: 17px;
+}
